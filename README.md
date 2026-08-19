@@ -1,4 +1,4 @@
-# ACMRecruitment-Jayachandrahasan
+# ACMRecruitment-Jayachandrahasan-quests
 
 this repository contains my submissions for the ACM Recruitment.
 it contains all my tasks and code implementations required during the selection process.
