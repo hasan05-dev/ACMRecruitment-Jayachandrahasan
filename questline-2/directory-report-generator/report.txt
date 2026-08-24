@@ -1,0 +1,8 @@
+--- FILE SYSTEM REPORT ---
+Directory scanned: -/Desktop
+
+Total number of files: 0
+Total number of executable files: 0
+Largest file: 
+Most recently modified file: 
+Number of hidden files: $HIDDEN_FILES
